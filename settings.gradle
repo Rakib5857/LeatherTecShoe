@@ -1,0 +1,2 @@
+rootProject.name='LeatherTecShoe'
+include ':app'

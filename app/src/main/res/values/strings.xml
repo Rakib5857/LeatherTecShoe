@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LeatherTecShoe</string>
+    <string name="bangladesh_button_text">Bangladesh</string>
+    <string name="india_button_text">India</string>
+    <string name="pakistan_button_text">Pakistan</string>
+</resources>

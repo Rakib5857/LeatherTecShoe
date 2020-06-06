@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710778848538",
+    "firebase_url": "https://leather-tec-shoe.firebaseio.com",
+    "project_id": "leather-tec-shoe",
+    "storage_bucket": "leather-tec-shoe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710778848538:android:606e1e8a3b44c98ac558a3",
+        "android_client_info": {
+          "package_name": "com.example.leathertecshoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710778848538-6i88jstfk2u44qkvpvubp6r6k93nna1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzz5FHTQckLMGujbJwGUC6hvMHvQgwtPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710778848538-6i88jstfk2u44qkvpvubp6r6k93nna1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
